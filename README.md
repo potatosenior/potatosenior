@@ -1,4 +1,4 @@
-[![Olá](https://github.com/potatosenior/potatosenior/blob/master/2d370ff0e26f13de3a0014ed686b22d5bbdea45br1-540-302_00.gif)](https://potatosenior.github.io/Me/)
+[![Olá](https://pa1.narvii.com/6374/b3e15fde762b3ae2c415844ab17989b328907c37_hq.gif)](https://potatosenior.github.io/Me/)
 
 # Olá
 
