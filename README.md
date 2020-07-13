@@ -2,9 +2,9 @@
 
 # Olá
 
-## Sobre mim
+### Sobre mim
 
-### Meu nome é João Pedro,
+#### Meu nome é João Pedro,
 
 Sou estudante de ciência da computação na UFU.
 Gosto de fazer soluções pra coisas que ja tem soluções ou que não precisam.
