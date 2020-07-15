@@ -11,4 +11,6 @@ Gosto de fazer soluções pra coisas que ja tem soluções ou que não precisam.
 Atualmente uso/estudo Javascript e Python.
 
 ![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=potatosenior&show_icons=true&hide_border=true)
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=potatosenior.visitor_badge)  
