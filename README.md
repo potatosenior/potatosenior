@@ -9,10 +9,10 @@ Gosto de fazer pensar e fazer soluções pra coisas que ja tem soluções ou que
 <table>
   <tr>
      <td>
-         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=potatosenior&show_icons=true&theme=synthwave&count_private=true" />
+         <img width="400px" height="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=potatosenior&show_icons=true&theme=synthwave&count_private=true" />
      </td>
      <td>
-         <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatosenior&hide=html&layout=compact&theme=synthwave"/>
+         <img width="440px" height="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatosenior&hide=html&layout=compact&theme=synthwave"/>
      </td>
   </tr>  
 </table>
