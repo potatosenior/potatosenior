@@ -12,7 +12,7 @@ Gosto de fazer pensar e fazer soluções pra coisas que ja tem soluções ou que
          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=potatosenior&show_icons=true&theme=synthwave&count_private=true" />
      </td>
      <td>
-         <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatosenior&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats" />
+         <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatosenior&layout=compact&theme=synthwave)"/>
      </td>
   </tr>  
 </table>
