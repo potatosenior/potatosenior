@@ -2,8 +2,8 @@
 
 ### Sobre mim
 
-Meu nome é João Pedro, tenho 19 anos e sou estudante de ciência da computação na UFU.
-Gosto de fazer e pensar em soluções pra coisas que ja tem soluções ou que não precisam.
+Meu nome é João Pedro, tenho 20 anos e sou estudante de ciência da computação na UFU.
+Gosto de fazer e pensar em soluções pra coisas que já tem soluções ou que não precisam.
 
 <center>
 <table>
