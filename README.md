@@ -18,7 +18,7 @@ Gosto de fazer e pensar em soluções pra coisas que já tem soluções ou que n
     </tr>
 
     <tr>
-      <td style="colspan='2';">      
+      <td>      
         <img height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potatosenior&theme=radical" alt="João Pedro" />
       </td>
     </tr>
