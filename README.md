@@ -2,11 +2,13 @@
 
 ### Sobre mim
 
-Meu nome é João Pedro, tenho 20 anos e sou estudante de ciência da computação na UFU.
-Gosto de fazer e pensar em soluções pra coisas que já tem soluções ou que não precisam.
+Meu nome é João Pedro, as vezes começo algumas coisas e
+
 
 </br>
 </br>
+
+https://www.linkedin.com/in/jo%C3%A3opedrovieira/
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
